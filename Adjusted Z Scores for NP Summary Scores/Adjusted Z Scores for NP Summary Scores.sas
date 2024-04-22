@@ -5,7 +5,7 @@ Adjusted Z-scores for NP summary scores
 Last updated: April 2024
 
 
-The purpose of this SAS code is to allow users to create adjusted Z-scores (age and gender) for NP summary scores.
+The purpose of this SAS code is to allow users to create adjusted Z-scores (age, gender education) for NP summary scores.
 Please ensure you have the listed dataset(s) to run this SAS code optimally. It is highly recommended to have them in the same location.
 
 Generic names are used for the datasets within this SAS code. 
