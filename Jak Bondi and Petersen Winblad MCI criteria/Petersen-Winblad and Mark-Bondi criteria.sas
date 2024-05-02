@@ -5,7 +5,7 @@ Petersen-Winblad and Mark-Bondi criteria
 Last updated: April 2024
 
 
-The purpose of this SAS code is to allow users to create adjusted Z-scores (age, gender education) for NP summary scores.
+The purpose of this SAS code is to allow users to create adjusted Z-scores (age, education) for NP summary scores for Petersen-Winblad and Mark-Bondi criteria
 Please ensure you have the listed dataset(s) to run this SAS code optimally. It is highly recommended to have them in the same location.
 
 Generic names are used for the datasets within this SAS code. 
